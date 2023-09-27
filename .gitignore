@@ -1,0 +1,6 @@
+*.log
+*.png
+model_zoo
+__pycache__
+*.pyc
+testsets/
